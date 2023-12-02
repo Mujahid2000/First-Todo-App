@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+
+}
+
+.container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+}
+
+button{
+    width: 60px;
+    height: 38px;
+    color: white;
+    font-size: 19px;
+    border-radius: 5px;
+    background-color: black;
+    border: none;
+    outline: none;
+    
+}
+
+.text ul{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.text li {
+    margin-top: 5px;
+}

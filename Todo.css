@@ -35,6 +35,7 @@ button{
     background-color: black;
     padding: 5px;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .text li {
